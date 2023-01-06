@@ -1,0 +1,1215 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bakery {
+    background-image: url(../img/Untitled-1.jpg);
+    background-position: 50% 90.35%;
+    background-size: cover;
+}
+
+.font-m {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+    font-family: Georgia, serif;
+    line-height: 1.1;
+    text-align: center;
+    text-align-last: center;
+}
+
+.sec1txt {
+    font-size: 17px;
+}
+
+a {
+
+    color: #fff;
+}
+
+.btn {
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 30px;
+    background-color: #f1c50e;
+    border-radius: 2rem;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: #d9b10d;
+    color: #fff;
+}
+
+.products .container h5 {
+    font-size: 20px;
+}
+
+.product .container h2 {
+    font-size: 36px;
+    font-family: Georgia, serif;
+}
+
+.mbox .box .icon {
+    width: 60px;
+    height: 60px;
+    background-color: #a5bba9;
+    border-radius: 50%;
+}
+
+.mbox .box .icon img {
+    width: 34px;
+}
+
+.mbox .box h2 {
+    font-size: 20px;
+}
+
+.mbox .box p {
+    font-size: 16px;
+    text-align: center;
+    text-align-last: center;
+    font-family: 'Open Sans', sans-serif;
+    width: 85%;
+
+}
+
+.company {
+    background-color: #a5bba9;
+}
+
+.company .txt h5 {
+    color: #fff;
+    font-size: 20px;
+}
+
+.company .txt h1 {
+    color: #fff;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    width: 80%;
+}
+
+.company .txt p {
+    font-size: 17px;
+}
+
+.contact {
+    background-color: #f1c50e;
+    height: 270px;
+}
+
+.contact h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.contact .contbutton {
+    padding: 16px 51px;
+    background-color: #fff;
+    border-radius: 2rem;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}
+
+
+.bread .kinds .first .img {
+    background: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/d92108e3370a5a4196fd2185/pexels-geraud-pfeiffer-6605201.jpg);
+    background-size: cover;
+}
+
+.bread .kinds .second .img {
+    background: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/8f6f9f067b845117b42d1e5a/pexels-geraud-pfeiffer-6605205.jpg);
+    background-size: cover;
+}
+
+.bread .kinds .third .img {
+    background: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/8303fed7a75c5c17922c718d/pexels-skyler-ewing-9482670.jpg);
+    background-size: cover;
+}
+
+.bread .kinds .fourth .img {
+    background: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/3ebc12be0f655518bb30e0de/pexels-skyler-ewing-9482663.jpg);
+    background-size: cover;
+}
+
+.bread .txt p {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px 0;
+}
+
+.bread .txt .h2 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bread .kinds {
+    margin-top: 79px;
+}
+
+.bread .kinds .box .txt a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #a5bba9;
+    border-radius: 2rem;
+    margin-top: 20px;
+}
+
+.bread .kinds .box .txt h5 {
+    width: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.bread .kinds .box .txt p {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    width: 70%;
+}
+
+.seccomp {
+    background-color: #a5bba9;
+}
+
+.seccomp .txt h5 {
+    color: #fff;
+    font-size: 20px;
+}
+
+.seccomp .txt h1 {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    width: 100%;
+    text-align: e;
+}
+
+.seccomp .txt p {
+    font-size: 16px;
+}
+
+.counter{
+    background-color: #f3f8f4;
+    padding: 70px;
+}
+.counter h5{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.counter h1{
+    font-family: 'Georgia', sans-serif;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+
+.counter .numbers .box .icon {
+    width: 60px;
+    height: 60px;
+    background-color: #a5bba9;
+    border-radius: 50%;
+}
+.counter .numbers .box .icon {
+    margin-bottom: 20px;
+}
+.counter .numbers .box p{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.gallery{
+    height: 665px;
+    background-color: #ffffff;
+}
+.gallery .carousel{
+    width: 600px;
+
+}
+.text{
+    background-color: #f1c50e;
+}
+.text h1{
+    color: #fff;
+    font-family: 'Georgia', sans-serif;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.text p{
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    text-align-last:center ;
+    line-height: 2;
+    font-size: 18px;
+}
+.text .btn{
+    background-color: #fff;
+    color: #000000;
+}
+.text .btn:hover{
+    background-color: #e6e6e6 ;
+}
+.seccont {
+    background-color: #a5bba9;
+}
+
+.seccont .txt h5 {
+    color: #fff;
+    font-size: 20px;
+}
+
+.seccont .txt h1 {
+    color: #fff;
+    font-size: 36px;
+    font-family: 'Georgia', sans-serif;
+    font-weight: 800;
+    width: 80%;
+}
+
+.seccont .txt p {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+.seccont .row .txt .call .icon {
+    border-radius: 50%;
+    padding: 23px;
+    background-color: #f1c50e;
+    margin-top: 42px;
+}
+.seccont .row .txt .call .icon img {
+    width: 43px;
+}
+.seccont .row .txt .txtcall p{
+    margin-top: 15px;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 600;
+    line-height: 0.5;
+}
+
+
+.seccont .row .txt .txtcall p{
+    margin-top: 15px;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    line-height: 0.5;
+}
+
+.seccont .row .txt .txtcall a{
+    color: #f1c50e;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.footer{
+    height: 120px;
+    background-color: #333333;    
+}
+.footer p{
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+.foot2{
+    height: 97px;
+    background-color: #333333;
+}
+.foot2 p{
+    color: #fff;
+    font-size: 12.8px;
+    font-family: 'Open Sans', sans-serif;
+}
+.foot2 p a:hover{
+    text-decoration: none;
+    color: #a1a1a1;
+}
+
+.bd-navbar {
+    background-color: #ffffff;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%), inset 0 -1px 0 rgb(255 255 255 / 15%);
+    font-size: 1.2rem;
+}
+    
+    #projekt-name{
+        font-size: 2rem;
+    }
+     .offcanvas{
+        background-color: rgba(0, 0, 0, 0.837);
+        color: white;
+    }
+
+.gallery .h1{
+    font-size: 36px;
+    font-family: 'Georgia', sans-serif;
+    font-weight: 700;
+}
+@media(min-width:1200px) {
+    .bd-navbar a{
+        color: #000000;
+    }
+    .bakery {
+        height: 657px;
+    }
+
+    .products {
+        height: 744px;
+    }
+
+    .heading {
+        font-size: 62px;
+    }
+
+    .mbox {
+        width: 860px;
+        height: 418px;
+    }
+
+    .box {
+        width: 278px;
+        height: 205px;
+    }
+
+    .company {
+        height: 578px;
+    }
+
+    .company .row {
+        width: 1140px;
+        height: 458px;
+    }
+
+    .company .txt {
+        width: 567px;
+        height: 457px;
+    }
+
+    .company .row .img {
+        width: 567px;
+        height: 457px;
+    }
+
+    .company .row .img img {
+        width: 493px;
+        height: 458px;
+    }
+
+    .bread .txt {
+        width: 50rem;
+    }
+
+    .bread .txt .h2 {
+        font-size: 36px
+    }
+
+    .bread .kinds {
+        width: 1140px;
+        height: 648px;
+    }
+
+    .bread .kinds .box {
+        width: 555px;
+        height: 309px;
+    }
+
+    .bread .kinds .box .img {
+        width: 249px;
+        height: 249px;
+    }
+
+    .bread .kinds .box .txt {
+        width: 270px;
+        height: 249px;
+        padding-left: 15px;
+    }
+
+    .seccomp {
+        height: 548px;
+    }
+    .seccomp .row {
+        border: 1px;
+        width: 1105px;
+        height: 428px;
+    }
+
+    .seccomp .txt {
+        width: 600px;
+        height: 428px;
+    }
+    .seccomp .txt h1{
+        font-size: 36px;
+    }
+
+    .seccomp .txt p {
+        width: 80%;
+    }
+
+    .seccomp .row .img {
+        width: 503px;
+        height: 428px;
+    }
+
+    .seccomp .row .img img {
+        width: 503px;
+        height: 428px;
+    }
+    .counter{
+        height: 553px;
+    }
+    .counter h1{
+        font-size: 36px;
+    }
+    .counter .numbers{
+        width: 863px;
+        height: 228px;
+    }
+    .counter .numbers .box{
+        width: 279px;
+        height: 226px;
+    }
+    .counter .numbers .box .icon img{
+        width: 33px;
+    }
+    .counter .numbers .box h1{
+        font-size: 60px;
+        font-family: 'Georgia', sans-serif;
+        margin-bottom: 10px;
+    }
+    .text{
+        height: 480px;
+    }
+    .text h1{
+        font-size: 36px;
+    }
+    .text p{
+        width: 844px;
+    }
+    .seccont {
+        height: 578px;
+    }
+
+    .seccont .row {
+        width: 1143px;
+        height: 418px;
+    }
+
+    .seccont .txt {
+        width: 570px;
+        height: 415px;
+        padding: 30px;
+    }
+
+    .seccont .row .img {
+        width: 570px;
+        height: 415px;
+        padding: 0 30px;
+    }
+
+    .seccont .row .img img {
+        width: 469px;
+        height: 415px;
+    }
+}
+
+
+
+@media(min-width:993px) and (max-width:1199px) {
+    .bd-navbar a{
+        color: #000000;
+    }
+    .bakery {
+        height: 657px;
+    }
+
+    .heading {
+        font-size: 60px;
+    }
+
+    .mbox {
+        width: 860px;
+        height: 418px;
+    }
+
+    .box {
+        width: 278px;
+        height: 205px;
+    }
+
+    .company {
+        height: 643px;
+    }
+
+    .company .row {
+        width: 945px;
+        height: 523px;
+    }
+
+   .company .row .txt {
+        width: 470px;
+        height: 523px;
+    }
+
+    .company .row .img {
+        width: 470px;
+        height: 523px;        
+    }
+
+    .company .row .img img {
+        width: 492px;
+        height: 523px;
+    }
+
+    .bread{
+        height: 994px;
+    }
+
+    .bread .txt {
+        width: 50rem;
+    }
+
+    .bread .txt .h2 {
+        font-size: 36px
+    }
+
+    .bread .kinds {
+        width: 940px;
+        height: 648px;
+    }
+
+    .bread .kinds .box {
+        width: 455px;
+        height: 309px;
+    }
+
+    .bread .kinds .box .img {
+        width: 155px;
+        height: 249px;
+    }
+
+    .bread .kinds .box .txt {
+        width: 270px;
+        height: 249px;
+        padding-left: 15px;
+    }
+
+    .seccomp {
+        height: 589px;
+    }
+
+    .seccomp .row {
+        border: 1px;
+        width: 945px;
+        height: 469px;
+    }
+
+    .seccomp .txt {
+        width: 470px;
+        height: 469px;
+    }
+    .seccomp .txt h1{
+        font-size: 36px;
+    }
+
+    .seccomp .row .img {
+        width: 470px;
+        height: 469px;
+    }
+
+    .seccomp .row .img img {
+        width: 470px;
+        height: 469px;
+    }
+    .counter{
+        height: 553px;
+    }
+    .counter h1{
+        font-size: 36px;
+    }
+    .counter .numbers{
+        width: 863px;
+        height: 228px;
+    }
+    .counter .numbers .box{
+        width: 279px;
+        height: 226px;
+    }
+    .counter .numbers .box .icon img{
+        width: 33px;
+    }
+    .counter .numbers .box h1{
+        font-size: 60px;
+        font-family: 'Georgia', sans-serif;
+        margin-bottom: 10px;
+    }
+    .text{
+        height: 480px;
+    }
+    .text h1{
+        font-size: 36px;
+    }
+    .text p{
+        width: 844px;
+    }
+    .seccont {
+        height: 576px;
+    }
+
+    .seccont .row {
+        width: 940px;
+        height: 498px;
+    }
+
+   .seccont .row .txt {
+        width: 470px;
+        height: 498px;
+    }
+
+    .seccont .row .img {
+        width: 470px;
+        height: 443px;
+    }
+
+    .seccont .row .img img {
+        width: 470px;
+        height: 443px;
+    }
+}
+
+@media(min-width:768px) and (max-width:992px) {
+    .bd-navbar a{
+        color: #ffffff;
+    }
+    .bakery {
+        height: 722px;
+    }
+
+    .heading {
+        font-size: 60px;
+    }
+
+    .mbox {
+
+        flex-wrap: wrap;
+        margin: 0;
+        padding: 0;
+        width: 720px;
+        height: 714px;
+    }
+
+    .box {
+        width: 355px;
+        height: 231px;
+    }
+
+    .company {
+        height: 722px;
+    }
+
+    .row {
+        width: 720px;
+        height: 589px;
+    }
+
+    .txt {
+        width: 355px;
+        height: 587px;
+    }
+
+    .img {
+        width: 355px;
+        height: 587px;
+    }
+
+    .img img {
+        width: 350px;
+    }
+
+    .bread{
+        height: 1672px;
+    }
+    .bread .txt {
+        width: 60rem;
+    }
+
+    .bread .txt .h2 {
+        font-size: 36px
+    }
+
+    .bread .kinds {
+        width: 720px;
+        height: 1326px;
+
+    }
+
+    .bread .kinds .box {
+        width: 720px;
+        height: 309px;
+
+    }
+
+    .bread .kinds .box .img {
+        width: 300px;
+        height: 249px;
+
+    }
+
+    .bread .kinds .box .txt {
+        width: 377px;
+        height: 249px;
+        padding-left: 15px;
+    }
+    .seccomp {
+        height: 655px;
+    }
+
+    .seccomp .row {
+        width: 720px;
+        height: 535px;
+    }
+
+    .seccomp .txt {
+        width: 360px;
+        height: 535px;
+    }
+    .seccomp .txt h1{
+        font-size: 36px;
+    }
+
+    .seccomp .row .img {
+        width: 360px;
+        height: 535px;
+    }
+
+    .seccomp .row .img img {
+        width: 340px;
+        height: 290px;
+    }
+    .counter{
+        height: 788px;
+    }
+    .counter h1{
+        font-size: 36px;
+    }
+    .counter .numbers{
+        width: 720px;
+        height: 462px;
+    }
+    .counter .numbers .box{
+        width: 355px;
+        height: 226px;
+    }
+    .counter .numbers .box .icon img{
+        width: 33px;
+    }
+    .counter .numbers .box h1{
+        font-size: 60px;
+        font-family: 'Georgia', sans-serif;
+        margin-bottom: 10px;
+    }
+    .text{
+        height: 516px;
+    }
+    .text h1{
+        font-size: 36px;
+    }
+    .text p{
+        width: 720px;
+    }
+    .seccont {
+        height: 668px;
+    }
+
+    .seccont .row {
+        width: 725px;
+        height: 590px;
+    }
+
+   .seccont .row .txt{
+        width: 360px;
+        height: 590px;
+    }
+
+    .seccont .row .img{
+        width: 360px;
+        height: 590px;
+    }
+
+    .seccont .row .img img{
+        width: 360px;
+        height: 339px;
+    }  
+}
+
+@media(min-width:576px) and (max-width:767px) {
+    .bd-navbar a{
+        color: #ffffff;
+    }
+    .bakery {
+        height: 722px;
+    }
+
+    .heading {
+        font-size: 60px;
+    }
+
+    .mbox {
+
+        flex-wrap: wrap;
+        margin: 0;
+        padding: 0;
+        width: 540px;
+        height: 1121px;
+    }
+
+    .box {
+        width: 540px;
+        height: 178px;
+    }
+
+    .company {
+        height: 1015px;
+    }
+
+    .row {
+        width: 540px;
+        height: 915px;
+    }
+
+    .txt {
+        width: 540px;
+        height: 419px;
+    }
+
+    .img {
+        width: 540px;
+        height: 495px;
+    }
+
+    .img img {
+        width: 450px;
+    }
+
+    .bread{
+        height: 1692px;
+    }
+    .bread .txt {
+        width: 60rem;
+    }
+
+    .bread .txt .h2 {
+        font-size: 30px;
+    }
+
+    .bread .kinds {
+        width: 540px;
+        height: 1326px;
+
+    }
+
+    .bread .kinds .box {
+        width: 540px;
+        height: 309px;
+
+    }
+
+    .bread .kinds .box .img {
+        width: 245px;
+        height: 249px;
+
+    }
+
+    .bread .kinds .box .txt {
+        width: 265px;
+        height: 249px;
+        padding-left: 25px;
+        width: 40%;
+    }
+    .seccomp {
+        height: 930px;
+    }
+
+    .seccomp .row {
+        border: 1px;
+        width: 540px;
+        height: 809px;
+    }
+
+    .seccomp .txt {
+        width: 540px;
+        height: 436px;
+    }
+    .seccomp .txt h1{
+        font-size: 30px;
+    }
+
+    .seccomp .row .img {
+        width: 540px;
+        height: 436px;
+    }
+
+    .seccomp .row .img img {
+        width: 520px;
+        height: 417px;
+    }
+    .counter{
+        height: 1008px;
+    }
+
+    .counter h1{
+        font-size: 30px;
+    }
+    .counter .numbers{
+        width: 540px;
+        height: 698px;
+    }
+    .counter .numbers .box{
+        width: 540px;
+        height: 226px;
+    }
+    .counter .numbers .box .icon img{
+        width: 33px;
+    }
+    .counter .numbers .box h1{
+        font-size: 60px;
+        font-family: 'Georgia', sans-serif;
+        margin-bottom: 10px;
+    }
+    .text{
+        height: 574px;
+    }
+    .text h1{
+        font-size: 30px;
+    }
+    .text p{
+        width: 540px;
+    }
+    .seccont {
+        height: 1147px;
+    }
+
+    .seccont .row {
+        width: 540px;
+        height: 1069px;
+    }
+
+   .seccont .row .txt{
+        width: 540px;
+        height: 497px;
+    }
+
+    .seccont .row .img{
+        width: 540px;
+        height: 570px;
+    }
+
+    .seccont .row .img img{
+        width: 540px;
+        height: 509px;
+    }
+    .seccont .row .call{
+        display: block;
+    }
+}
+
+
+@media(max-width:575px) {
+    .bd-navbar a{
+        color: #ffffff;
+    }
+    .bakery {
+        height: 466px;
+    }
+
+    .heading {
+        font-size: 30px;
+        width: 60%;
+    }
+
+    .mbox {
+
+        flex-wrap: wrap;
+        margin: 0;
+        padding: 0;
+        width: 540px;
+        height: 1121px;
+    }
+
+    .box {
+        width: 540px;
+        height: 178px;
+    }
+
+    .company {
+        height: 938px;
+    }
+
+    .row {
+        width: 340px;
+        height: 887px;
+    }
+
+    .txt {
+        width: 340px;
+        height: 532px;
+    }
+
+    .img {
+        width: 340px;
+        height: 366px;
+    }
+
+    .img img {
+        width: 340px;
+    }
+
+    .contact h1 {
+        width: 70%;
+        text-align: center;
+        text-align-last: center;
+    }
+
+    .bread{
+        height: 2392px;
+    }
+    .bread .txt {
+        width: 340px;
+    }
+
+    .bread .txt .h2 {
+        font-size: 24px
+    }
+
+    .bread .kinds {
+        width: 340px;
+        height: 2059px;
+
+    }
+
+    .bread .kinds .box {
+        width: 340px;
+        height: 492px;
+
+    }
+
+    .bread .kinds .box .img {
+        width: 300px;
+        height: 200px;
+
+    }
+
+    .bread .kinds .box .txt {
+        width: 300px;
+        height: 232px;
+    }
+
+    .bread .kinds .box .txt p {
+        width: 100%;
+    }
+    .seccomp {
+        height: 881px;
+    }
+
+    .seccomp .row {
+        border: 1px;
+        width: 340px;
+        height: 761px;
+    }
+
+    .seccomp .txt {
+        width: 340px;
+        height: 492px;
+    }
+    .seccomp .txt h1{
+        font-size: 24px;
+    }
+
+    .seccomp .txt p{
+        width: 100%;
+    }
+    .seccomp .row .img {
+        width: 340px;
+        height: 208px;
+    }
+
+    .seccomp .row .img img {
+        width: 340px;
+        height: 272px;
+    }
+    .counter{
+        height: 838px;
+    }
+
+    .counter h1{
+        font-size: 24px;
+    }
+    .counter .numbers{
+        width: 340px;
+        height: 568px;
+    }
+    .counter .numbers .box{
+        width: 340px;
+        height: 182px;
+    }
+    .counter .numbers .box .icon img{
+        width: 33px;
+    }
+    .counter .numbers .box h1{
+        font-size: 24px;
+        font-family: 'Georgia', sans-serif;
+        margin-bottom: 10px;
+    }
+    .text{
+        height: 783px;
+    }
+    .text h1{
+        font-size: 24px;
+    }
+    .text p{
+        width: 340px;
+    }
+    .seccont {
+        height: 972px;
+    }
+
+    .seccont .row {
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 540px;
+        height: 834px;
+    }
+
+   .seccont .row .txt{
+        width: 340px;
+        height: 534px;
+    }
+
+    .seccont .row .img{
+        width: 340px;
+        height: 360px;
+    }
+
+    .seccont .row .img img{
+        width: 340px;
+        height: 320px;
+
+    }
+    .seccont .row .call{
+        display: block;
+    }
+}
